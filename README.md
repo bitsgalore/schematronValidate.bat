@@ -6,6 +6,7 @@ Simple Windows batch file and Unix Bash script for Schematron validation using [
 ## Command line use (batch file):
 
 `usage: schematronValidate.bat fileIn schema fileOut
+`
 
 ## Command line use (shell script):
 
